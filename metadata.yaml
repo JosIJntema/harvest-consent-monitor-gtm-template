@@ -15,5 +15,5 @@
 homepage: "https://consentmonitor.nl"
 documentation: "https://consentmonitor.nl/documentation"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 19d5721d2d65f9f292684860b0254852a3288370
     changeNotes: Initial Version
